@@ -7,4 +7,9 @@
     android:layout_height="match_parent"
     tools:context=".AboutActivity">
 
+    <Button
+        android:id="@+id/btnAbout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="About Me" />
 </androidx.constraintlayout.widget.ConstraintLayout>
